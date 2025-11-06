@@ -1,6 +1,6 @@
 {
     "name": "gem5 Development Container",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    "image": "ghcr.io/gem5/devcontainer:bootcamp-2024",
     "hostRequirements": {
         "cpus": 4,
         "memory": "16gb",
